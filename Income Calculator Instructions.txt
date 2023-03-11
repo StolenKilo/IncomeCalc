@@ -1,0 +1,7 @@
+Income Calculator Instructions
+
+1. Enter information into all boxes rounded the nearest whole number
+2. If any boxes do not apply to you enter 0 into the box
+3. On the 2nd GUI box click the "Calculate" button 
+4. The program will output total percentages and leftover monthly income in the 2nd GUI 
+
